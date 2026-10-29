@@ -117,6 +117,3 @@ xe-thong-minh-arduino/
     └── xe_thong_minh.ino
 ```
 
-## Giấy phép
-
-Chưa chỉ định giấy phép. Nếu muốn cho phép người khác sử dụng, chỉnh sửa hoặc phân phối mã nguồn, hãy thêm file giấy phép phù hợp (ví dụ MIT) trước khi công bố.
